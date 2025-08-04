@@ -8,3 +8,6 @@
 jazzmanku/jazzmanku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![Playwright Tests (Chromium Only)](https://github.com/jazzmanku/acquisition.com/actions/workflows/playwright.yml/badge.svg)](https://github.com/jazzmanku/acquisition.com/actions/workflows/playwright.yml)
